@@ -62,9 +62,13 @@ Aplicação web desenvolvida com Python e Streamlit para comunicação em tempo 
 
 ## Estatísticas GitHub
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorlimapy\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimapy\&layout=compact\&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorlimapy&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlimapy&layout=compact&langs_count=7"/>
+
+</div>
 
 ---
 
